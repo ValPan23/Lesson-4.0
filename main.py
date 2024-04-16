@@ -1,7 +1,8 @@
-# Функция `calculate` для вычисления произведения двух чисел
+# Функция `calculate` для вычисления суммы двух чисел
 def calculate(a, b):
-    return a * b
+    return a + b
 
 
 result = calculate(5, 3)
-print('Произведение:', result)
+print('Сумма:', result)
+
